@@ -6,6 +6,12 @@ public enum TokenType {
     OPERATOR,
     STRING,
     PUNCTUATION,
-    COMMENT }
+    COMMENT,
+    DELETE,
+    L_PAREN,
+    R_PAREN,
+    SEMICOLON,
+    
+    COMMA}
 
 
