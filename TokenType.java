@@ -11,7 +11,6 @@ public enum TokenType {
     L_PAREN,
     R_PAREN,
     SEMICOLON,
-    
     COMMA}
 
 
